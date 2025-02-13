@@ -1,0 +1,5 @@
+gtdb-r220.faa.gz (64G)
+gtdb-r220.names.dmp (13M)
+gtdb-r220.nodes.dmp (19M)
+gtdb-r220.taxonomy.dmnd (120G)
+README.md (3,8K)
